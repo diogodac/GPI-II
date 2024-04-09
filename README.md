@@ -15,7 +15,7 @@ El commit puede contener los siguientes elementos:
 * fix: corrige un error en el código
 * feat: introduce una nueva característica en el código
 * BREAKING CHANGE: introduce un cambio de API de ruptura
-* Se permiten tipos distintos a fix: y feat:, por ejemplo: chore, ci, docs, style, refactor, perf, test, y otros.
+* Se permiten tipos distintos a fix: y feat, por ejemplo: chore, ci, docs, style, refactor, perf, test, y otros.
 
 ## Modelo de branching
 
